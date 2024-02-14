@@ -1,3 +1,6 @@
+---
+draft: false
+---
 Creates a shortcode that can be inserted into Beaver Builder that displays the search count and term.
 
 ```php
